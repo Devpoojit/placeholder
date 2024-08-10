@@ -1,0 +1,17 @@
+/* LandingPage.css */
+h1, h2, p {
+    color: #343a40;
+  }
+  
+  h1 {
+    font-weight: bold;
+  }
+  
+  h2 {
+    font-style: italic;
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa !important;
+  }
+  
